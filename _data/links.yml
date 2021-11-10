@@ -1,4 +1,10 @@
 - categories:
+  - name: 个人主页
+    links:
+    - name: 影音库
+      style: orange
+       url: http://lysitheai.ml:8096/web/index.html#!/selectserver.html
+       
   - name: 购物
     links:
     - name: 淘宝
