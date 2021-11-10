@@ -5,6 +5,7 @@
       style: orange
        url: http://lysitheai.ml:8096/web/index.html#!/selectserver.html
        
+- categories:
   - name: 购物
     links:
     - name: 淘宝
