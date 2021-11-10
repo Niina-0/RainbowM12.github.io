@@ -1,5 +1,5 @@
-repository: BYR-Navi/BYR-Navi
-repository_url: https://github.com/BYR-Navi/BYR-Navi
+repository: RainbowM12/RainbowM12.github.io
+repository_url: https://github.com/RainbowM12/RainbowM12.github.io
 
 timezone: Asia/Shanghai
 lang: zh_CN
@@ -9,12 +9,12 @@ alias_en: lysitheai-Navi
 alias_cn: lysitheai导航
 description: A Navigation Website for BYR
 keywords: lysitheai, lysitheai-Navi, lysitheai, BUPT, Navi, Navigation
-url: https://byr-navi.com
+url: https://rainbowm12.github.io/
 established_at: "2016-10-01T00:00+08:00"
 
-author: iROCKBUNNY
+author: Rainbowm
 author_url: https://irockbunny.com
-organization: TEELAB
+organization: Rainbowm
 organization_url: https://teelab.net
 contact: contact[at]irockbunny[dot]com
 
